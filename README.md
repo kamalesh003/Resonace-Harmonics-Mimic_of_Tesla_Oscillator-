@@ -1,5 +1,19 @@
 # Resonace-Harmonics-Mimic_of_Tesla_Oscillator-
 
+Resonant Harmonics is a Python-based project inspired by Nikola Tesla's mechanical oscillator, designed to capture ambient sound, analyze dominant frequencies, and generate resonant sounds based on that analysis.
+
+It simulates the concept of resonance digitally, offering insights into the principles of mechanical vibration and potential applications in various domains.
+
+Features:
+
+**Sound Capture:** Utilizes the microphone input to capture ambient sound in real-time.
+
+**Frequency Analysis:** Analyzes the captured sound to identify dominant frequencies using signal processing techniques.
+
+**Resonant Sound Generation:** Generates resonant sounds based on the analyzed frequencies, simulating the phenomenon of mechanical resonance.
+
+**Configurability:** Allows for customization of recording duration, sampling rate, and amplitude of generated sounds via configuration files.
+
 To start, run, and enjoy your project, follow these steps:
 
 **Step 1: Set Up the Environment**
