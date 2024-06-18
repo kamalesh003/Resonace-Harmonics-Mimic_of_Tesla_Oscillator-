@@ -1,0 +1,6 @@
+recording:
+  duration: 1.0
+  rate: 44100
+
+sound:
+  amplitude: 0.5
